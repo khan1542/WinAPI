@@ -1,0 +1,2 @@
+﻿  WinAPIApp.cpp
+LINK : fatal error LNK1201: Ошибка при записи в базу данных "C:\Projects\WinAPIApp\Debug\WinAPIApp.pdb" программы; возможно, не хватает места на диске, недопустимый путь или недостаточно прав

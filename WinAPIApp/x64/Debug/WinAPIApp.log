@@ -1,0 +1,3 @@
+﻿  WinAPIApp.cpp
+C:\Projects\WinAPIApp\WinAPIApp.cpp(170,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  WinAPIApp.vcxproj -> C:\Projects\WinAPIApp\x64\Debug\WinAPIApp.exe
